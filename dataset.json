@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Metro-level restaurant data for the Buffalo-Cheektowaga area in western New York. Filtered by the Restaurants category group, captures the Niagara Frontier's dining market with verified business profiles, ratings, review sentiment, and competitive positioning. Refreshed weekly.",
+  "config_name": "All Restaurants in Buffalo-Cheektowaga (Metro), New York, US",
+  "export_job_id": "79be522d-331c-4ea8-95cc-fd7608733291",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 535295,
+  "location_name": "Buffalo-Cheektowaga, NY",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-buffalo-cheektowaga-metro-new-york-us-sample-535295",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/535295/beamstation_535295_restaurants-us-buffalocheektowagany_SAMPLE_DIST.csv",
+  "sample_pct": 1.07,
+  "sample_records": 25,
+  "sample_sha256": "21a4718d1eb4f7af98b7a1c62f80fd6126c090135e0d3136046b0013e465f7ae",
+  "sample_size_bytes": 112961,
+  "total_records": 2332,
+  "updated_at": "2026-03-31T12:49:13.473671+00:00"
+}
