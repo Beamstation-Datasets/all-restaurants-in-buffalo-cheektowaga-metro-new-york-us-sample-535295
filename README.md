@@ -1,6 +1,6 @@
 # All Restaurants in Buffalo-Cheektowaga (Metro), New York, US
 
-> Free BeamStation sample export with 245 rows and masked direct-contact fields.
+> Free BeamStation sample export with 101 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `535295` |
 | Location | Buffalo-Cheektowaga, NY |
 | Category | Restaurants |
-| Full dataset size | 2,455 records |
-| Free sample size | 245 records (9.98%) |
-| Last export | 2026-04-21T14:07:03.440471+00:00 |
+| Full dataset size | 1,010 records |
+| Free sample size | 101 records (10.0%) |
+| Last export | 2026-04-28T15:00:59.797855+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-buffalo-cheektowaga-metro-new-york-us-sample-535295/releases/download/sample-latest/beamstation_535295_restaurants-us-buffalocheektowagany_SAMPLE_DIST.csv) |
 
 ## What is in this sample
