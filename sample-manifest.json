@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4a208709-5d64-4e03-9cfe-ac9b508cadcf",
+  "export_job_id": "b537e2a6-0442-40ed-8d94-c69e004240ba",
   "id_short": 535295,
-  "published_at": "2026-04-28T19:21:45Z",
+  "published_at": "2026-05-06T19:11:46Z",
   "repo_name": "all-restaurants-in-buffalo-cheektowaga-metro-new-york-us-sample-535295",
   "sample_asset_name": "beamstation_535295_restaurants-us-buffalocheektowagany_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/535295/beamstation_535295_restaurants-us-buffalocheektowagany_SAMPLE_DIST.csv",
-  "sample_records": 101,
-  "sample_sha256": "ea59f879bdbb891b8f80bfc003d58eb247dac850b87d90710819e43b190b338f",
-  "sample_size_bytes": 325569,
-  "total_records": 1010
+  "sample_records": 260,
+  "sample_sha256": "4b4b3c2c564b38f67124e065dc4fbed103c23b7b2d1c13f381a1ca668ae8630f",
+  "sample_size_bytes": 879745,
+  "total_records": 2606
 }
